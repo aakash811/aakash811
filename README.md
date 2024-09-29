@@ -7,7 +7,7 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Aakash Borse</h1>
-<h3 align="center">Passionate coding enthusiast skilled in various programming and web development languages. Adept at building responsive, user-friendly web applications with clean, efficient code. Eager to apply technical expertise to innovative projects and collaborate with forward-thinking teams. Actively seeking opportunities to grow as a developer.</h3>
+<h3 align="left">Passionate coding enthusiast skilled in various programming and web development languages. Adept at building responsive, user-friendly web applications with clean, efficient code. Eager to apply technical expertise to innovative projects and collaborate with forward-thinking teams. Actively seeking opportunities to grow as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash811&label=Profile%20views&color=0e75b6&style=flat" alt="aakash811" /> </p>
 
