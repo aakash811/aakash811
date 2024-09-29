@@ -1,9 +1,29 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">
+  Let's Connect and have a Chat!💬
+</h1>
+
 <h1 align="center">Hi 👋, I'm Aakash Borse</h1>
 <h3 align="center">Passionate coding enthusiast skilled in various programming and web development languages. Adept at building responsive, user-friendly web applications with clean, efficient code. Eager to apply technical expertise to innovative projects and collaborate with forward-thinking teams. Actively seeking opportunities to grow as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash811&label=Profile%20views&color=0e75b6&style=flat" alt="aakash811" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash811" alt="aakash811" /></a> </p>
+### ⚡ Github Stats
+<p align="center">
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash811" alt="aakash811" /></a>
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash811&theme=solarized_dark"  display=block width=100% height=auto alt="1">
+  </p>
+  
+  [![@aakash_811's Holopin badges](https://holopin.me/aakash_811)](https://holopin.io/@aakash_811)
+  
+  <br><br>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/_aakash_811" target="blank"><img src="https://img.shields.io/twitter/follow/_aakash_811?logo=twitter&style=for-the-badge" alt="_aakash_811" /></a> </p>
 
