@@ -53,7 +53,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mongodb,express,eclipse,firebase,go,java,materialui,mysql,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,terraform,git,aws,blender,powershell,androidstudio,figma,ps,postgres,postman,vercel,vite,xd)" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mongodb,express,eclipse,firebase,go,java,materialui,mysql,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,terraform,git,aws,blender,powershell,androidstudio,figma,ps,postgres,postman,vercel,vite,xd" />
   </a>
 </p>
 
