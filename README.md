@@ -41,8 +41,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash811&show_icons=true&locale=en&layout=compact" alt="aakash811" /></p>
-
 ### ⚡ Github Stats
 <p align="center">
   <p align="center"> 
@@ -55,6 +53,8 @@
   
   <br><br>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash811&show_icons=true&locale=en&layout=compact" alt="aakash811" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash811&show_icons=true&locale=en" alt="aakash811" /></p>
 
