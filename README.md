@@ -11,20 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash811&label=Profile%20views&color=0e75b6&style=flat" alt="aakash811" /> </p>
 
-### ⚡ Github Stats
-<p align="center">
-  <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="center" src="https://github-profile-trophy.vercel.app/?username=aakash811&theme=onedark&title=-Stars,-Followers,-Issues,-Pullrequest,-Reviews" alt="aakash811" /></a>
-    <br><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash811&theme=solarized_dark"  display=block width=100% height=auto alt="1">
-  </p>
-  
-  [![@aakash_811's Holopin badges](https://holopin.me/aakash_811)](https://holopin.io/@aakash_811)
-  
-  <br><br>
-</p>
-
-
 <p align="left"> <a href="https://twitter.com/_aakash_811" target="blank"><img src="https://img.shields.io/twitter/follow/_aakash_811?logo=twitter&style=for-the-badge" alt="_aakash_811" /></a> </p>
 
 - 🔭 I’m interested in **Competitive Programming and Web Development and still exploring different things.**
@@ -56,6 +42,19 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash811&show_icons=true&locale=en&layout=compact" alt="aakash811" /></p>
+
+### ⚡ Github Stats
+<p align="center">
+  <p align="center"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash811&theme=onedark" alt="aakash811" /></a>
+    <br><br>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash811&theme=solarized_dark"  display=block width=100% height=auto alt="1">
+  </p>
+  
+  [![@aakash_811's Holopin badges](https://holopin.me/aakash_811)](https://holopin.io/@aakash_811)
+  
+  <br><br>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash811&show_icons=true&locale=en" alt="aakash811" /></p>
 
