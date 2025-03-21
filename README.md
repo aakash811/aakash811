@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/aakash-borse-resume](https://bit.ly/aakash-borse-resume)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_aakash_811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_aakash_811" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/aakash-borse-977077278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aakash-borse-977077278" height="30" width="40" /></a>
@@ -34,7 +34,7 @@
 <a href="https://auth.geeksforgeeks.org/user/borseaakavtom/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="borseaakavtom/profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">✨ Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,mongodb,express,eclipse,firebase,go,java,materialui,mysql,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,git,aws,blender,powershell,androidstudio,figma,ps,postgres,postman,vercel,vite,xd" />
