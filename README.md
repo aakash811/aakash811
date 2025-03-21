@@ -14,7 +14,7 @@
 ### ⚡ Github Stats
 <p align="center">
   <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash811&theme=onedark&title=-Stars,-Followers,,-issues,-pullrequest,-reviews" alt="aakash811" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakash811&theme=onedark&title=-Stars,-Followers,,-Issues,-Pullrequest,-Reviews" alt="aakash811" /></a>
     <br><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aakash811&theme=solarized_dark"  display=block width=100% height=auto alt="1">
   </p>
