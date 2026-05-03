@@ -136,6 +136,8 @@ const aakash = {
 
 ---
 
+
+
 ## 🐍 Contribution Snake
 
 <!-- 
@@ -154,19 +156,12 @@ const aakash = {
 
 ---
 
-## 📈 Activity Graph
+
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aakash811&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-<!-- Footer Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-*"First, solve the problem. Then, write the code."*
-
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%91%8B;Let%27s+connect+and+build+something+great." />
+  <br/>
+  <i>"First, solve the problem. Then, write the code."</i>
+  <br/><br/>
 </div>
